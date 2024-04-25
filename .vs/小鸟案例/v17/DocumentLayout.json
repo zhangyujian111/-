@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|d:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\assets\\script\\brid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\brid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\assets\\script\\pig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\assets\\script\\boom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\boom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|d:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\assets\\script\\greenbird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\greenbird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\assets\\script\\pausepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\pausepanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\assets\\script\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\win.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\assets\\script\\yellowbird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D31793-005C-CB82-1029-4E5C9DECA37E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\yellowbird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "YellowBird.cs",
+              "DocumentMoniker": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\YellowBird.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\YellowBird.cs",
+              "ToolTip": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\YellowBird.cs",
+              "RelativeToolTip": "Assets\\Script\\YellowBird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:17:27.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GreenBird.cs",
+              "DocumentMoniker": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\GreenBird.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GreenBird.cs",
+              "ToolTip": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\GreenBird.cs",
+              "RelativeToolTip": "Assets\\Script\\GreenBird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T11:33:53.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PausePanel.cs",
+              "DocumentMoniker": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\PausePanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\PausePanel.cs",
+              "ToolTip": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\PausePanel.cs",
+              "RelativeToolTip": "Assets\\Script\\PausePanel.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAYwAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T12:10:35.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Win.cs",
+              "DocumentMoniker": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\Win.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Win.cs",
+              "ToolTip": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\Win.cs",
+              "RelativeToolTip": "Assets\\Script\\Win.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T11:55:18.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GameManager.cs",
+              "ToolTip": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GameManager.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAcwFwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T02:18:48.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Boom.cs",
+              "DocumentMoniker": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\Boom.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Boom.cs",
+              "ToolTip": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\Boom.cs",
+              "RelativeToolTip": "Assets\\Script\\Boom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:31:56.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pig.cs",
+              "DocumentMoniker": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\pig.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\pig.cs",
+              "ToolTip": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\pig.cs",
+              "RelativeToolTip": "Assets\\Script\\pig.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAwB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-08T00:56:11.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brid.cs",
+              "DocumentMoniker": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\Brid.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Brid.cs",
+              "ToolTip": "D:\\unity box\\\u5C0F\u9E1F\u6848\u4F8B\\Assets\\Script\\Brid.cs",
+              "RelativeToolTip": "Assets\\Script\\Brid.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAUwCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-02T02:23:50.108Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
